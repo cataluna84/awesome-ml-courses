@@ -60,7 +60,7 @@ Some programming experience is also recommended.
 
 Advanced courses that require prior knowledge in machine learning and AI. 
 
-* [PyTorch-Deep-Learning] (DS-GA 1008, SPRING 2020, NYU CENTER FOR DATA SCIENCE) | [Course Website] (https://atcold.github.io/pytorch-Deep-Learning/)
+* [PyTorch-Deep-Learning DS-GA 1008, SPRING 2020, NYU CENTER FOR DATA SCIENCE] | [Course Website] (https://atcold.github.io/pytorch-Deep-Learning/)
 
 * [Deep Unsupervised Learning (UC Berkeley CS294)](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos) | [Course website](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
 
